@@ -1,6 +1,7 @@
 # RNN-Variable-Sequence-Lengths-in-TensorFlow
 A tutorial series about how to deal with Variable Sequence Lengths in TensorFlow
-DATASET:
+
+##DATASET:
 
 # Human Activity Recognition Using Smartphones Dataset
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.
